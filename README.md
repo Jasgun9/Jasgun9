@@ -1,3 +1,9 @@
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+### 
+
 # 💫 About Me:
 💻 I’m currently working on<br>Building web applications using Python, Flask, and Django, with focus on backend workflows, REST APIs, and responsive interfaces. Recently worked on student management and expense tracking systems.<br><br>🤝 I’m looking to collaborate on<br>Backend-heavy web projects, Flask/Django applications, student tools, finance tools, and practical full-stack products where clean logic and real deployment matter.<br><br>🫱 I’m looking for help with<br>Production deployment, scalable backend architecture, Docker, CI/CD pipelines, and writing cleaner industry-level code for larger applications.<br><br>🌱 I’m currently learning<br>Advanced backend development, API design, deployment practices, database optimization, and improving Flutter + Firebase integration for mobile apps.<br><br>💬 Ask me about<br>Python, Flask, Django, REST APIs, expense tracker projects, student management systems, and solving backend logic problems.<br><br>⚡ Fun fact<br>I build practical tools first, then improve them until they feel production-ready — not just academic projects.
 
@@ -12,4 +18,9 @@
 ![](https://streak-stats.demolab.com/?user=Jasgun9&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jasgun9&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<img src="https://raw.githubusercontent.com/jasgun9/jasgun9/output/snake.svg" alt="Snake animation" />
+
+###
+
