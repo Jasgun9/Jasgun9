@@ -26,6 +26,17 @@ I'm a full stack developer from New Delhi who builds practical tools first, then
 - 💬 **Ask me about:** deploying Django on a VPS (Nginx, Gunicorn, systemd), REST API design, Celery + Redis, and PWAs.
 - ⚡ **Fun fact:** I build practical tools first, then improve them until they feel production-ready, not just academic projects.
 
+## 📈 By the numbers
+
+<p align="center">
+  <img alt="5+ Django apps in production" src="https://img.shields.io/badge/Django%20apps%20in%20production-5%2B-2F81F7?style=for-the-badge&logo=django&logoColor=white" />
+  <img alt="5 live projects" src="https://img.shields.io/badge/Live%20projects-5-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img alt="HR paperwork cut to 10 to 15 minutes" src="https://img.shields.io/badge/HR%20paperwork-10%E2%80%9315%20min-2F81F7?style=for-the-badge&logo=clockify&logoColor=white" />
+  <br>
+  <img alt="141 automated tests on Switchboard" src="https://img.shields.io/badge/Tests%20on%20Switchboard-141-2F81F7?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img alt="85 automated tests on Resume Studio" src="https://img.shields.io/badge/Tests%20on%20Resume%20Studio-85-2F81F7?style=for-the-badge&logo=pytest&logoColor=white" />
+</p>
+
 ## 🛠️ Things I've built
 
 <p align="center">
@@ -59,17 +70,6 @@ I'm a full stack developer from New Delhi who builds practical tools first, then
 
 <p align="center"><sub>Also: Django REST Framework · Celery · Gunicorn · systemd · SQLite · JWT auth · PWAs</sub></p>
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img width="49%" alt="Jasgun's GitHub stats" src="https://github-readme-stats.shion.dev/api?username=Jasgun9&show_icons=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=2F81F7&icon_color=2F81F7&text_color=7d8590" />
-  <img width="49%" alt="Jasgun's contribution streak" src="https://streak-stats.demolab.com/?user=Jasgun9&hide_border=true&background=00000000&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&currStreakNum=7d8590&sideNums=7d8590&sideLabels=7d8590&dates=7d8590&stroke=7d8590" />
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jasgun9/Jasgun9/output/github-snake-dark.svg" />
-  <img width="100%" alt="A snake eating Jasgun's GitHub contribution graph" src="https://raw.githubusercontent.com/Jasgun9/Jasgun9/output/github-snake.svg" />
-</picture>
 
 <p align="center">
   <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt" />
