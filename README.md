@@ -17,9 +17,9 @@
 
 ## 💫 About me
 
-I'm a full stack developer from New Delhi who builds practical tools first, then keeps improving them until they feel production-ready. I write backends with **Django and Django REST Framework**, frontends with **React and TypeScript**, and I deploy what I build myself: **5+ Django apps** run on a Linux VPS behind Nginx and Gunicorn.
+I'm a full stack developer from New Delhi. I write backends with **Django and Django REST Framework**, frontends with **React and TypeScript**, and I deploy what I build myself: **5+ Django apps** run on a Linux VPS behind Nginx and Gunicorn.
 
-- 💻 **Currently working on:** tools that replace manual office work. One is an HR manager that cut letter and salary slip preparation to **10–15 minutes**. Another is an attendance PWA with QR-code and fingerprint check-in. Next is an operations CRM for quotes, bookings and payments.
+- 💻 **Currently working on:** an operations CRM for quotes, bookings and payments. It joins two other tools I built to replace manual office work: an HR manager that cut letter and salary slip preparation to **10–15 minutes**, and an attendance PWA with QR-code and fingerprint check-in.
 - 🤝 **Looking to collaborate on:** backend-heavy web products, Django/DRF APIs, and full stack tools where clean logic and real deployment matter.
 - 🌱 **Currently learning:** Docker, database optimisation, scalable backend architecture, and Flutter + Firebase for mobile.
 - 🫱 **Looking for help with:** growing past a single VPS and structuring larger codebases the way industry teams do.
@@ -69,7 +69,6 @@ I'm a full stack developer from New Delhi who builds practical tools first, then
 </table>
 
 <p align="center"><sub>Also: Django REST Framework · Celery · Gunicorn · systemd · SQLite · JWT auth · PWAs</sub></p>
-
 
 <p align="center">
   <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt" />
